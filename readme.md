@@ -5,5 +5,9 @@
 
 ---
 
-<span style="color:blue">some *blue* text</span>
+### Prerequisites : Maths and Stats 
+
+##### Stats : 
+- [statistical Machine Learning](https://yiqiaoyin.files.wordpress.com/2017/09/statistical_machine_learning.pdf)
+
 
