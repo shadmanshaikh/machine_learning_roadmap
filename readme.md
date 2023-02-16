@@ -3,8 +3,8 @@
 ### Re
 
 ~~this is a roadmap~~
-
-- [x] this is it
+- [ ] adding more features
+- [ ] this is it
 - [2] this is not it
 
 this is ==very important==.
