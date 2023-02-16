@@ -16,4 +16,4 @@
 - [Basic stats concepts for newbies !](https://www.analyticsvidhya.com/blog/2021/07/basic-statistics-concepts-for-machine-learning-newbies/) : Beginner friendly guide .
 
 
-- [statistics for machine learning mini course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course/)
+- [statistics for machine learning mini course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course/) : Mini Course on different metrics used in performing model selection and evaluation 
