@@ -3,11 +3,13 @@
 
 >Note : This is a **personal** preference and not a general guide
 
----
+
 
 ## Prerequisites : Maths and Stats 
 
 ### Stats : 
+
+> You can pick any of these and start learning with your own pace
 
 - [Statistical Machine Learning Book](https://yiqiaoyin.files.wordpress.com/2017/09/statistical_machine_learning.pdf) : In depth information about the various stats terms. 
 
