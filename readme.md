@@ -7,6 +7,7 @@
 
 > this is a blockquote text
 
+[^1]: this is a footnote
 ~~this is a roadmap~~
 - [ ] adding more features
 - [x] this is it
