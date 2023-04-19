@@ -5,9 +5,9 @@
 
 
 
-## Prerequisites : Maths and Stats 
+## Prerequisites :Basics on Mathematics , Statistics and Python 
 
-### Stats : 
+### Statistics : 
 
 > You can pick any of these and start learning at your own pace.
 
@@ -19,3 +19,20 @@
 
 
 - [statistics for machine learning mini course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course/) : Mini Course on different metrics used in performing model selection and evaluation 
+
+### Mathematics :
+
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Good for brushing up your high school and also uni maths with different techinques 
+
+- [Mathematics for Machine Learning by  Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.](https://mml-book.github.io/) : Recommended for in depth information about the subject.
+
+- [Article on Maths for ML by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/how-to-learn-mathematics-for-machine-learning-what-concepts-do-you-need-to-master-in-data-science/): Good for Getting Starting.
+
+### Python :
+
+- [Python Basics by coursera](https://www.coursera.org/learn/python-basics): Good for getting started
+
+- [complete hands on tutorial on basics of python](https://www.learnpython.org/): Hands on tutorial
+
+- [FreeCodeCampy python](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/): Also good for beginners
+
