@@ -47,4 +47,8 @@
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) : Machine Learning Mastery is a website that provides a wide range of tutorials, courses, and books on machine learning algorithms. 
 
 - [ML by Stanford University](https://www.coursera.org/learn/machine-learning) : Stanford University offers a free online course on machine learning, which covers a wide range of topics including linear regression, logistic regression, decision trees, and clustering. 
-
+---
+### Getting Started with Artificial Neural Network :
+- [Artificial Neural Network](https://www.analyticsvidhya.com/blog/2021/05/beginners-guide-to-artificial-neural-network/) : Introduction to Neural Network 
+- [ANN Basics](https://www.javatpoint.com/artificial-neural-network) : Tutorials on Artificial Neural Network 
+- [Implementing ANN without using any libraries](https://medium.com/@qempsil0914/implement-neural-network-without-using-deep-learning-libraries-step-by-step-tutorial-python3-e2aa4e5766d1) : Under the hood working of ANN
